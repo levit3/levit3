@@ -1,7 +1,6 @@
 Hi, I'm Levi. I am a passionate and upcoming software engineer trying to figure this comuputer stuff out
 
-This is the stuff I have been working on so far
-
+My stats this week.
 <!--START_SECTION:waka-->
 
 ```txt
@@ -13,3 +12,5 @@ TSConfig     36 mins         █░░░░░░░░░░░░░░░░
 ```
 
 <!--END_SECTION:waka-->
+
+![Snake animation](https://github.com/levit3/levit3/blob/output/github-contribution-grid-snake.svg)

@@ -14,7 +14,7 @@ TSConfig     36 mins         █░░░░░░░░░░░░░░░░
 <!--END_SECTION:waka-->
 
 github stats
-<p align="startr"> <img src="https://github-readme-stats.vercel.app/api?username=levit3&show_icons=true&theme=gotham" alt="levit3" />
+<p align="start"> <img src="https://github-readme-stats.vercel.app/api?username=levit3&show_icons=true&theme=gotham" alt="levit3" />
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/levit3/levit3/output/github-contribution-grid-snake-dark.svg">

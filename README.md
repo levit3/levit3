@@ -4,10 +4,7 @@ My stats this week.
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript   14 mins         ████████████▓░░░░░░░░░░░░   50.00 %
-Text         9 mins          ████████▓░░░░░░░░░░░░░░░░   34.00 %
-Python       2 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.21 %
-YAML         2 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.78 %
+YAML   2 mins          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
